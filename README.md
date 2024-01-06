@@ -1,0 +1,1 @@
+Hello! My name is Rohil Bhingarde and in this repository, I have added a python project I did during my Fall Semester in Lehigh University. The Python project is based on analyzing the US Cost Of Living for various counties across the US and the factors that influence them. I have attached my project code and report in the files above. Feel free to have a look at it! 
